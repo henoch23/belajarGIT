@@ -7,8 +7,10 @@ Daftar tugas / branch
 5. Tugas-midProject
 6. Tugas-php
 7. Tugas-finalProject
+
 Daftar perintah GiT
-Inisialisasi Repositori:
+
+1. Inisialisasi Repositori:
 
 git init: Inisialisasi repositori Git baru di direktori saat ini.
 Kloning Repositori:
@@ -18,7 +20,8 @@ Commit:
 
 git add <file_name>: Menambahkan file ke staging area.
 git commit -m "pesan_commit": Membuat commit dengan pesan commit yang menjelaskan perubahan.
-Branch:
+
+2. Branch:
 
 git branch: Menampilkan daftar branch.
 git branch <branch_name>: Membuat branch baru.
